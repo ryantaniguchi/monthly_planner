@@ -11,7 +11,7 @@
 using namespace std;
 
 void show_options();
-void l(const string& username, const string& month, PlannerDatabase& r);
+void user_loop(const string& username, const string& month, PlannerDatabase& r);
 void login(PlannerDatabase& r);
 int request_id();
 
@@ -219,7 +219,7 @@ void user_loop(const string& username, const string& month, PlannerDatabase& r)
             r.update_planner("November", "November.txt");
             r.update_planner("December", "December.txt");
             // Prints reminder for every planner that they checked.
-            cout << "Exiting " << month << "...\n\n";
+            cout << "Saving " << month << "...\n\n";
             return;
             // Any other response gives an error.
         default:
