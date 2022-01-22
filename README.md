@@ -1,6 +1,6 @@
 # Overview
 
-This program is designed to to act as a simple planner for a small number of users. It is divided into monthly databases, each represented by a text file. Users can look up, add, and delete events from the planner through a user interface.
+This program is designed to to act as a simple planner for a small number of users. Reminders are stored in monthly databases, each represented by a text file. Users can look up, add, and delete events from the planner through a user interface.
 
 In creating this software, I sought to improve my understanding of C++. In particular, I sought to improve my understanding of libraries, classes, and the use of header and source files.
 
