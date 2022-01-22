@@ -1,5 +1,5 @@
 // reminder.h
-// Header file for Reminder, which represents a single reminder reminder.
+// Header file for Reminder, which represents a single reminder.
 //
 
 #ifndef reminder_h
