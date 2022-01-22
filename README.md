@@ -4,7 +4,7 @@ This program is designed to to act as a simple planner for a small number of use
 
 In creating this software, I sought to improve my understanding of C++. In particular, I sought to improve my understanding of libraries, classes, and the use of header and source files.
 
-Please use this link to watch a demonstration of this program: [Software Demo Video](http://youtube.link.goes.here)
+Please use this link to watch a demonstration of this program: [Software Demo Video](https://youtu.be/4aCZY0IqNu8)
 
 # Development Environment
 
