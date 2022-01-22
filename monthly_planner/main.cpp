@@ -1,5 +1,5 @@
 // main.cpp
-// The main file for the monthlyplanner program.
+// The main file for the monthly_planner program.
 //
 
 #include <iostream>
